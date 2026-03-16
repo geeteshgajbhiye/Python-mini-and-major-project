@@ -1,2 +1,2 @@
-# Personal-Finance-Account-Management-System
+# This is for those who wants to learn Python by codes
 This is my first Project
